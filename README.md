@@ -1,2 +1,2 @@
 # Praktikum Jaringan Komputer
-## Aplikasi :Cisco Packet Tracker
+#### Menggunakan Aplikasi Cisco Packet Tracker
